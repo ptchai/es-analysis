@@ -1,0 +1,14 @@
+logging:
+  console:
+    enabled: 'false'
+spring:
+  application:
+    name: analysis
+  main:
+    web-application-type: none
+analysis:
+  number-of-arrays: 3
+  array-size: 10
+  range-of-numbers:
+    min: 0
+    max: 50
